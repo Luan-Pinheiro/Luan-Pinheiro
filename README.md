@@ -1,4 +1,4 @@
-### 👋 Olá, sou Luan Pinheiro Azevedo, Desenvolvedor de Softwares!
+### 👋 Olá, sou Luan Pinheiro Azevedo, Desenvolvedor de Software!
 ##
 Minhas Estatísticas
 <div align="center">
