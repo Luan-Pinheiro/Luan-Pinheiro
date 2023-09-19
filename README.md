@@ -1,4 +1,9 @@
 ### 👋 Olá, sou Luan Pinheiro Azevedo, Desenvolvedor de Software!
+
+<div align="center">
+<img src="https://github.com/Luan-Pinheiro/Luan-Pinheiro/assets/81595615/c6dc8aa9-552f-48e8-95c2-bce4c0008362" width="760px" />
+</div>
+
 ##
 Minhas Estatísticas
 <div align="center">
