@@ -8,8 +8,8 @@
 Minhas Estatísticas
 <div align="center">
   <a href="https://github.com/luan-pinheiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-pinheiro&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-pinheiro&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-pinheiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-pinheiro&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 
