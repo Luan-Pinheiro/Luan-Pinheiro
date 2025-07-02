@@ -7,13 +7,13 @@ Experiência com Java, Spring Boot, bancos de dados relacionais, além de famili
 <div align="center">
 
   <img 
-    height="180" 
-    style="padding-right: 5px;" 
+    height="200" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats"
   />
   <img 
-    height="180" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Pinheiro&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
     alt="Top Langs"
   />
@@ -29,7 +29,7 @@ Experiência com Java, Spring Boot, bancos de dados relacionais, além de famili
      <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
      <img align=center alt="Git"  src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=%23F05032">
      <img align=center alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="android" src="https://img.shields.io/badge/Android-2E7D32?style=for-the-badge&logo=android-studio&logoColor=white">
+    <img align="center" alt="Android" src="https://img.shields.io/badge/Android-2E7D32?style=for-the-badge&logo=android-studio&logoColor=white">
      <img align=center alt="Mysql"  src="https://img.shields.io/badge/MySQL-004f8b?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
 
