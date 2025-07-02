@@ -1,38 +1,47 @@
-### 👋 Hello, I'm Luan Azevedo, Software Engineer!
+### 👋 Seja bem-vindo! Eu sou Luan Azevedo, Desenvolvedor Back-End.
+---
+Experiência com Java, Spring Boot, bancos de dados relacionais, além de familiaridade com práticas de versionamento, testes e integração contínua. Possuo foco em escrever código limpo, seguro e de fácil manutenção, sempre buscando entregar valor real por meio da tecnologia.
+
+## 📊 Estatísticas
 
 <div align="center">
-<img src="https://github.com/Luan-Pinheiro/Luan-Pinheiro/assets/81595615/c6dc8aa9-552f-48e8-95c2-bce4c0008362" width="760px" />
+
+  <img 
+    height="180" 
+    style="padding-right: 5px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats"
+  />
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Pinheiro&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Top Langs"
+  />
 </div>
 
-##
-### Github Stats
-<div align="center">
-  <a href="https://github.com/Luan-Pinheiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Pinheiro&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+
+## 🤖 Linguagens e Tecnologias
+
+  <div style="display: inline_block"><br>
+     <img align=center alt="Java"  src="https://img.shields.io/badge/Java-C34127?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-2E4A23?style=for-the-badge&logo=spring-boot&logoColor=6DB33F">
+     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+     <img align=center alt="Git"  src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=%23F05032">
+     <img align=center alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="android" src="https://img.shields.io/badge/Android-2E7D32?style=for-the-badge&logo=android-studio&logoColor=white">
+     <img align=center alt="Mysql"  src="https://img.shields.io/badge/MySQL-004f8b?style=for-the-badge&logo=mysql&logoColor=white">
+  </div>
+
+---
+
+## 🌐 Social
+
+<div>
+  <a href="https://www.linkedin.com/in/luan-pinheiro-azevedo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:lpazevedodev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
-  
-
-##
-### Tech Skills
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Luan_SpringBoot" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Luan_Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Luan_ANDROID" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-  <img align="center" alt="Luan_PostgresSQL" height="38" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Luan_C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Luan_Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-          
-          
-</div>
-  
-##
-### Social
-  
- <div> 
-  <a href="https://www.linkedin.com/in/luan-pinheiro-azevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "mailto:lpazevedodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
-
