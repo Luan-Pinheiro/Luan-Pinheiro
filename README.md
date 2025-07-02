@@ -7,7 +7,7 @@ Experiência com Java, Spring Boot, bancos de dados relacionais, além de famili
 <div align="center">
   <img 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats"
   />
