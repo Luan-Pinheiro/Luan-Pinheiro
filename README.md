@@ -5,7 +5,6 @@ Experiência com Java, Spring Boot, bancos de dados relacionais, além de famili
 ## 📊 Estatísticas
 
 <div align="center">
-
   <img 
     height="200" 
     style="padding-right: 10px;" 
