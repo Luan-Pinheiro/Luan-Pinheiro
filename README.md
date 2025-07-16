@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Luan Azevedo, Desenvolvedor Back-End
 
-Possuo experiência com Java, Spring Boot, bancos de dados relacionais, além de familiaridade com práticas de versionamento e integração contínua. Compromisso em escrever código limpo, seguro e de fácil manutenção, sempre buscando entregar valor real por meio da tecnologia.
+Compromisso em escrever código limpo, seguro e de fácil manutenção.
 
 ## 📊 Estatísticas
 
