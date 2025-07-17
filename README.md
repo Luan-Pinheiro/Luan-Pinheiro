@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Luan Azevedo, Desenvolvedor Back-End
 
-Compromisso em escrever código limpo, seguro e de fácil manutenção.
+Compromisso em escrever código limpo, seguro e de fácil manutenção!
 
 ## 📊 Estatísticas
 
