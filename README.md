@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Luan Azevedo, Desenvolvedor Back-End
+# 👋 Olá! Sou Luan Azevedo, Desenvolvedor Back-End
 
 Compromisso em escrever código limpo, seguro e de fácil manutenção!
 
