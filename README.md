@@ -8,17 +8,15 @@ Compromisso em escrever código limpo, seguro e de fácil manutenção!
   <img 
     height="200" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats"
   />
   <img 
     height="195"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Pinheiro&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Pinheiro&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
     alt="Top Langs"
   />
 </div>
-
-
 
 ## 🤖 Linguagens e Tecnologias
 
