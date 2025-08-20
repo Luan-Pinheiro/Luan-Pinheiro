@@ -23,13 +23,11 @@ Compromisso em escrever código limpo, seguro e de fácil manutenção!
 <div style="display: inline_block">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-C34127?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-2E4A23?style=for-the-badge&logo=spring-boot&logoColor=6DB33F">
-    <img align="center" alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
     <img align="center" alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-    <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-004f8b?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+    <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
 ---
