@@ -21,8 +21,8 @@ Compromisso em escrever código limpo, seguro e de fácil manutenção!
 ## 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-C34127?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-2E4A23?style=for-the-badge&logo=spring-boot&logoColor=6DB33F">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-C34127?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
     <img align="center" alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
