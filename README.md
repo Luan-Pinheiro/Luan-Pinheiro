@@ -5,16 +5,8 @@ Compromisso em escrever código limpo, seguro e de fácil manutenção!
 ## 📊 Estatísticas
 
 <div align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luan-Pinheiro&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    alt="Top Langs" 
-  />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luan-Pinheiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
 </div>
 
 ## 🤖 Linguagens e Tecnologias
