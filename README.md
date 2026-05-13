@@ -12,14 +12,22 @@ Compromisso em escrever código limpo, seguro e de fácil manutenção!
 
 ## ☕ Backend & Infraestrutura
 <div style="display: inline-block">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-CC0200?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2E4A23?style=for-the-badge&logo=springboot&logoColor=6DB33F">
-    <img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
-    <img align="center" alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-    <img align="center" alt="JUnit5" src="https://img.shields.io/badge/JUnit5-8A6DFF?style=for-the-badge&logo=junit5&logoColor=white">
-    <img align="center" alt="Testcontainers" src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2E4A23?style=for-the-badge&logo=springboot&logoColor=6DB33F">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-CC0200?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img align="center" alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white">
+
+  <br>
+  <br>
+
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img align="center" alt="JUnit5" src="https://img.shields.io/badge/JUnit5-8A6DFF?style=for-the-badge&logo=junit5&logoColor=white">
+  <img align="center" alt="Testcontainers" src="https://img.shields.io/badge/Testcontainers-1E88E5?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="REST API" src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+
 </div>
 
 ## 📱 Mobile Development & Edge Computing
