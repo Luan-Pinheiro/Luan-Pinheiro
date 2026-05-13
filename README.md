@@ -4,18 +4,16 @@ Compromisso em escrever código limpo, seguro e de fácil manutenção!
 
 ## 📊 Estatísticas
 
-<div align="center"">
+<div align="center">
   <img 
-    height="200" 
-    style="padding-right: 3px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&locale=pt-br" 
-    alt="GitHub Stats"
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luan-Pinheiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats" 
   />
   <img 
-    height="195"
-    style="padding-left: 3px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Pinheiro&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    alt="Top Langs"
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luan-Pinheiro&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Top Langs" 
   />
 </div>
 
