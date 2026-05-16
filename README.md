@@ -18,7 +18,7 @@ Compromisso em escrever código limpo, seguro e de fácil manutenção!
   <img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
   <img align="center" alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white">
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/cloud-030103?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img align="center" alt="Cloud" src="https://img.shields.io/badge/cloud-030103?style=for-the-badge&logo=google-cloud&logoColor=white">
   
   <br>
   <br>
