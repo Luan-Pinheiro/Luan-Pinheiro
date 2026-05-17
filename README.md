@@ -10,7 +10,7 @@ Compromisso em escrever código limpo, seguro e de fácil manutenção!
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luan-Pinheiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
 </div>
 
-## ☕ Backend & Infra
+## ☕ Backend & Infrastructure
 <div style="display: inline-block">
 
   <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2E4A23?style=for-the-badge&logo=springboot&logoColor=6DB33F">
